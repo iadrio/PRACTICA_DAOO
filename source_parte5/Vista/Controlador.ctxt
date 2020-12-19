@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\r\n\ Controlador\ que\ se\ activa\ cuando\ la\ vista\ muestra\ el\ menu\ de\ gesti\u00F3n\ de\ caja\r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 2018.04.17\r\n
+comment1.params=command
+comment1.target=void\ receiveCommand(java.lang.String)
+numComments=2

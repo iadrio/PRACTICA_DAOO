@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Controlador\ que\ se\ activa\ cuando\ la\ vista\ muestra\ el\ menu\ de\ gesti\u00F3n\ de\ caja\r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 2018.04.17\r\n
+comment1.params=
+comment1.target=Controller()
+comment1.text=\r\n\ Crea\ un\ controlador\ creando\ la\ vista\ y\ el\ modelo\ necesario\r\n
+comment2.params=view\ model
+comment2.target=Controller(View,\ SistemaGestion)
+comment2.text=\r\n\ Crea\ un\ controlador\ para\ un\ modelo\ y\ un\ vista\ dada\r\n\ @param\ view\ vista\ que\ ser\u00E1\ la\ encargada\ de\ interactuar\ con\ el\ usuario\r\n\ @param\ model\ modelo\ que\ contendr\u00E1\ la\ implementaci\u00F3n\ de\ las\ funciones\ instanciadas\ por\ la\ vista\r\n
+comment3.params=command
+comment3.target=void\ receiveCommand(java.lang.String)
+comment3.text=\r\n\ Gestiona\ los\ eventos\ que\ se\ producen\ en\ la\ vista\r\n\ @param\ command\ orden\ que\ debe\ gestionar\ el\ controlaor\r\n
+comment4.params=
+comment4.target=void\ login()
+comment4.text=\r\n\ Loguea\ a\ un\ usuario\ en\ la\ aplicaci\u00F3n\r\n
+comment5.params=
+comment5.target=void\ historialCliente()
+comment5.text=\r\n\ Muestra\ el\ historial\ completo\ de\ un\ cliente\ en\ la\ aplicaci\u00F3n\r\n
+numComments=6

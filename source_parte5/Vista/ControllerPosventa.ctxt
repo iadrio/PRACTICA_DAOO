@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ControllerPosventa
+comment0.text=\r\n\ Controlador\ que\ se\ activa\ cuando\ la\ vista\ muestra\ el\ menu\ de\ gesti\u00F3n\ postventa\r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 2018.04.17\r\n
+comment1.params=view\ model
+comment1.target=ControllerPosventa(View,\ SistemaGestion)
+comment1.text=\r\n\ Crea\ un\ controlador\ para\ un\ modelo\ y\ un\ vista\ dada\r\n\ @param\ view\ vista\ que\ ser\u00E1\ la\ encargada\ de\ interactuar\ con\ el\ usuario\r\n\ @param\ model\ modelo\ que\ contendr\u00E1\ la\ implementaci\u00F3n\ de\ las\ funciones\ instanciadas\ por\ la\ vista\r\n
+comment2.params=command
+comment2.target=void\ receiveCommand(java.lang.String)
+comment2.text=\r\n\ Gestiona\ los\ eventos\ que\ se\ producen\ en\ la\ vista\r\n\ @param\ command\ orden\ que\ debe\ gestionar\ el\ controlaor\r\n
+comment3.params=
+comment3.target=void\ tramitarDevolucion()
+comment3.text=\r\n\ Gestiona\ la\ devoluci\u00F3n\ de\ un\ producto\r\n
+comment4.params=
+comment4.target=void\ historialCliente()
+comment4.text=\r\n\ Pide\ al\ modelo\ que\ muestre\ el\ historial\ de\ un\ cliente\ y\ gestiona\ con\ la\ vista\ la\ entrada\ y\ salida\ de\ datos\r\n
+comment5.params=
+comment5.target=void\ historial()
+comment5.text=\r\n\ Pide\ al\ modelo\ que\ muestre\ el\ historial\ en\ el\ departamento\ de\ posventa\ y\ gestiona\ con\ la\ vista\ la\ entrada\ y\ salida\ de\ datos\r\n
+numComments=6

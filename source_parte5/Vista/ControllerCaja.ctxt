@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ControllerCaja
+comment0.text=\r\n\ Controlador\ que\ se\ activa\ cuando\ la\ vista\ muestra\ el\ menu\ de\ gesti\u00F3n\ de\ caja\r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 2018.04.17\r\n
+comment1.params=view\ model
+comment1.target=ControllerCaja(View,\ SistemaGestion)
+comment1.text=\r\n\ Crea\ un\ controlador\ para\ un\ modelo\ y\ un\ vista\ dada\r\n\ @param\ view\ vista\ que\ ser\u00E1\ la\ encargada\ de\ interactuar\ con\ el\ usuario\r\n\ @param\ model\ modelo\ que\ contendr\u00E1\ la\ implementaci\u00F3n\ de\ las\ funciones\ instanciadas\ por\ la\ vista\r\n
+comment2.params=command
+comment2.target=void\ receiveCommand(java.lang.String)
+comment2.text=\r\n\ Gestiona\ los\ eventos\ que\ se\ producen\ en\ la\ vista\r\n\ @param\ command\ orden\ que\ debe\ gestionar\ el\ controlaor\r\n
+comment3.params=
+comment3.target=void\ vender()
+comment3.text=\r\n\ Gestiona\ las\ funciones\ de\ venta\ \r\n
+comment4.params=
+comment4.target=void\ historialVentas()
+comment4.text=\r\n\ Imprime\ el\ historial\ de\ ventas\ de\ la\ tienda\r\n
+comment5.params=
+comment5.target=void\ consultarFichaCompra()
+comment5.text=\r\n\ Pide\ al\ modelo\ una\ ficha\ de\ compra\ y\ gestiona\ con\ la\ vista\ mostrar\ los\ datos\r\n
+comment6.params=
+comment6.target=void\ historialCajaCliente()
+comment6.text=\r\n\ Pide\ al\ modelo\ el\ historial\ de\ caja\ de\ un\ cliente\ y\ gestiona\ con\ la\ vista\ que\ se\ muestren\ los\ datos\r\n
+numComments=7
