@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Seccion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Seccion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=title
+comment1.target=Seccion(java.lang.String)
+comment10.params=
+comment10.target=void\ disable()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=comp
+comment3.target=void\ add(Component)
+comment4.params=linea
+comment4.target=void\ add(java.lang.String)
+comment5.params=comp
+comment5.target=void\ remove(Component)
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=i
+comment7.target=Component\ getChild(int)
+comment8.params=i
+comment8.target=java.lang.String\ getCommand(int)
+comment9.params=
+comment9.target=void\ enable()
+numComments=11
