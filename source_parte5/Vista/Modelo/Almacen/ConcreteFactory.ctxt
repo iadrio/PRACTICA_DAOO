@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConcreteFactory
+comment0.text=\r\n\ Clase\ que\ implementa\ el\ m\u00E9todo\ factor\u00EDa\r\n\ \r\n\ @author\ Ivan\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 2019.03.31\r\n
+comment1.params=tipo\ codigoDeProducto\ marca\ modelo\ color\ precio\ cantidad
+comment1.target=Factory.Electrodomestico\ factoryMethod(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.text=\r\n\ Crea\ un\ producto\ de\ tipo\ gen\u00E9rico\r\n\ @param\ tipo\ tipo\ de\ producto\ que\ se\ va\ a\ crear\r\n\ @param\ codigoDeProducto\ identificador\ \u00FAnico\ del\ producto\r\n\ @param\ marca\ \ marca\ del\ producto\r\n\ @param\ modelo\ modelo\ del\ producto\r\n\ @param\ color\ color\ del\ producto\r\n\ @param\ precio\ precio\ del\ producto\r\n\ @param\ cantidad\ numero\ de\ unidades\ que\ se\ van\ a\ crear\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lavadora
+comment0.text=\r\n\ Define\ las\ caracter\u00EDsticas\ de\ una\ lavadora\r\n\ \r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 22.04.2018\r\n
+comment1.params=codigoDeProducto\ marca\ modelo\ color\ precio\ cantidad
+comment1.target=Lavadora(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.text=\r\n\ Crea\ productos\ tipo\ lavadora\r\n\ @param\ codigoDeProducto\ n\u00FAmero\ de\ identificaci\u00F3n\ del\ producto\r\n\ @param\ marca\ fabricante\ del\ producto\r\n\ @param\ modelo\ \ \r\n\ @param\ color\r\n\ @param\ precio\r\n\ @param\ cantidad\ cantidad\ de\ productos\ en\ el\ almacen\r\n
+numComments=2

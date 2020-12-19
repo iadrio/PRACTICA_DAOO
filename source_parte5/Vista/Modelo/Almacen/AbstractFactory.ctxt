@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AbstractFactory
+comment0.text=\r\n\ Interfaz\ que\ define\ el\ m\u00E9todo\ factor\u00EDa\ que\ deben\ implementar\ las\ subclases\ concretas\r\n\ \r\n\ @author\ Ivan\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 2019.03.31\r\n
+comment1.params=tipo\ codigoDeProducto\ marca\ modelo\ color\ precio\ cantidad
+comment1.target=Factory.Electrodomestico\ factoryMethod(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+numComments=2
