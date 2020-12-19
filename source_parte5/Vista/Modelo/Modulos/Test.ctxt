@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Contiene\ los\ m\u00E9todos\ de\ prueba\ para\ patr\u00F3n\ observer\r\n\ \r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 31.03.2019\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=array
+comment2.target=void\ print(java.util.ArrayList)
+numComments=3

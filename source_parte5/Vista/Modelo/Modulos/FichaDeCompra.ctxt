@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FichaDeCompra
+comment0.text=\r\n\ Almacena\ los\ datos\ relacionados\ con\ una\ compra\r\n\ \r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\r\n\ @version\ 2018.04.21\r\n
+comment1.params=idCliente\ idEmpleado\ fecha\ numeroDeFicha
+comment1.target=FichaDeCompra(java.lang.String,\ java.lang.String,\ java.util.Date,\ int)
+comment1.text=\r\n\ Crea\ la\ ficha\ de\ compra\r\n\ @param\ idCliente\ DNI\ del\ cliente\r\n\ @param\ idEmpleado\ DNI\ del\ empleado\ que\ realiza\ la\ venta\r\n\ @param\ fecha\ fecha\ de\ compra\r\n\ @param\ numeroDeFicha\ n\u00FAmero\ de\ ficha\ de\ compra\r\n
+comment2.params=total
+comment2.target=void\ setTotal(double)
+comment2.text=\r\n\ A\u00F1ade\ el\ valor\ total\ a\ la\ ficha.\ Representa\ el\ precio\ de\ la\ compra\r\n\ @param\ total\ precio\ de\ la\ compra\r\n
+comment3.params=
+comment3.target=double\ getTotal()
+comment3.text=\r\n\ Consulta\ el\ precio\ total\ de\ la\ compra\r\n\ @return\ precio\ total\ de\ la\ compra\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=estado
+comment5.target=void\ setEstado(java.lang.String)
+comment5.text=\r\n\ Fija\ el\ estado\ de\ una\ ficha\r\n\ @param\ estado\ estado\ al\ que\ se\ cambiar\u00E1\ la\ ficha\r\n
+comment6.params=
+comment6.target=java.lang.String\ getEstado()
+comment6.text=\r\n\ Devuelve\ el\ estado\ en\ el\ que\ est\u00E1\ la\ ficha\r\n\ @return\ estado\ en\ el\ que\ se\ encuentra\ la\ ficha\r\n
+numComments=7

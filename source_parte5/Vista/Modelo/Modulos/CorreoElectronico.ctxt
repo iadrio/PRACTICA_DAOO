@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CorreoElectronico
+comment0.text=\r\n\ Almacena\ datos\ de\ un\ contacto\ con\ el\ cliente\r\n\ \r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 24.04.2018\r\n
+comment1.params=idCliente\ idEmpleado\ fecha\ contenido\ promocion\ numeroCorreo
+comment1.target=CorreoElectronico(java.lang.String,\ java.lang.String,\ java.util.Date,\ java.util.ArrayList,\ int,\ int)
+comment1.text=\r\n\ Crea\ un\ correo\ electr\u00F3nico\ \r\n\ @param\ idCliente\ identificaci\u00F3n\ del\ cliente\r\n\ @param\ idEmpleado\ identificaci\u00F3n\ del\ empleado\r\n\ @param\ fecha\ fecha\ de\ envio\r\n\ @param\ contenido\ cuerpo\ del\ correo\r\n
+comment2.params=
+comment2.target=int\ getPromocion()
+comment2.text=\r\n\ Indica\ a\ que\ promoci\u00F3n\ est\u00E1\ asociado\ el\ correo\r\n\ return\ n\u00FAmero\ de\ promocion\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getContenido()
+comment3.text=\r\n\ Devuelve\ el\ contenido\ del\ correo\r\n\ return\ Devuelve\ el\ contenido\ del\ correo\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Describe\ el\ correo\ electronico\r\n\ @return\ resumen\ del\ correo\r\n
+comment5.params=estado
+comment5.target=void\ setEstado(java.lang.String)
+comment5.text=\r\n\ Fija\ el\ estado\ de\ una\ ficha\r\n\ @param\ estado\ estado\ al\ que\ se\ cambiar\u00E1\ la\ ficha\r\n
+comment6.params=
+comment6.target=java.lang.String\ getEstado()
+comment6.text=\r\n\ Devuelve\ el\ estado\ en\ el\ que\ est\u00E1\ la\ ficha\r\n\ @return\ estado\ en\ el\ que\ se\ encuentra\ la\ ficha\r\n
+numComments=7

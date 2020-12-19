@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ReparacionCompletada
+comment0.text=\r\n\ Estado\ en\ el\ que\ se\ encuentra\ una\ ficha\ que\ est\u00E1\ completada\r\n\ \r\n\ @author\ Ivan\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 31.03.2019\r\n
+comment1.params=ficha
+comment1.target=ReparacionCompletada(FichaReparacion)
+comment1.text=\r\n\ Crea\ un\ estado\ que\ se\ podr\u00E1\ asignar\ a\ una\ ficha\ de\ reparaci\u00F3n.\ En\ este\ estado\ la\ reparaci\u00F3n\ \ est\u00E1\ completa,\r\n\ @param\ ficha\ referencia\ a\ la\ ficha\ sobre\ la\ que\ se\ aplicar\u00E1\ el\ estado\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ una\ descripci\u00F3n\ de\ la\ ficha\r\n\ @return\ \ devuelve\ una\ descripci\u00F3n\ de\ la\ ficha\ indicando\ que\ est\u00E1\ completada\r\n
+comment3.params=
+comment3.target=java.lang.String\ getEstado()
+comment3.text=\r\n\ Devuelve\ una\ descripci\u00F3n\ de\ este\ estado\r\n\ @return\ descripci\u00F3n\ del\ estado\ \r\n
+comment4.params=
+comment4.target=void\ completar()
+comment4.text=\r\n\ No\ hace\ nada.\ La\ ficha\ ya\ est\u00E1\ completada.\r\n
+numComments=5

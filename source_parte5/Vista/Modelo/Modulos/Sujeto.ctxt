@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sujeto
+comment0.text=\r\n\ Interfaz\ que\ define\ a\ un\ sujeto.\ Son\ las\ clases\ que\ ser\u00E1n\ observadas.\r\n\ \r\n\ @author\ Iv\u00E1n\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 31.03.2019\r\n
+comment1.params=obs
+comment1.target=void\ addObserver(Observador)
+comment2.params=obs
+comment2.target=void\ removeObserver(Observador)
+comment3.params=
+comment3.target=void\ notifyObservers()
+numComments=4

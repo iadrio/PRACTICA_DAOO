@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Test2
+comment0.text=\r\n\ Clase\ test\ del\ patr\u00F3n\ estado\r\n\ \r\n\ @author\ Ivan\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 31.03.2019\r\n
+comment1.params=
+comment1.target=void\ testFinanciacion()
+comment2.params=
+comment2.target=void\ testDevolucion()
+comment3.params=
+comment3.target=void\ testReparacion()
+numComments=4

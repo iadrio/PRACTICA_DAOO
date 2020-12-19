@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Completada
+comment0.text=\r\n\ Estado\ en\ el\ que\ se\ encuentra\ una\ ficha\ que\ est\u00E1\ completada\r\n\ \r\n\ @author\ Ivan\ Adrio\ Mu\u00F1iz\ \r\n\ @version\ 31.03.2019\r\n
+comment1.params=ficha
+comment1.target=Completada(FichaDeDevolucion)
+comment1.text=\r\n\ Crea\ un\ estado\ que\ se\ podr\u00E1\ asignar\ a\ una\ ficha\ de\ devoluci\u00F3n.\ En\ este\ estado\ la\ compra\ est\u00E1\ devuelta\ y\ con\ el\ proceso\ completado.\r\n\ @param\ ficha\ referencia\ a\ la\ ficha\ sobre\ la\ que\ se\ aplicar\u00E1\ el\ estado\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ una\ descripci\u00F3n\ de\ la\ ficha\r\n\ @return\ \ devuelve\ una\ descripci\u00F3n\ de\ la\ ficha\ indicando\ que\ est\u00E1\ completada\r\n
+comment3.params=
+comment3.target=java.lang.String\ getEstado()
+comment3.text=\r\n\ Devuelve\ una\ descripci\u00F3n\ de\ este\ estado\r\n\ @return\ descripci\u00F3n\ del\ estado\ \r\n
+comment4.params=
+comment4.target=void\ cancelar()
+comment4.text=\r\n\ No\ hace\ nada.\ La\ ficha\ no\ puede\ cancelarse\r\n
+comment5.params=
+comment5.target=void\ completar()
+comment5.text=\r\n\ No\ hace\ nada.\ La\ ficha\ ya\ est\u00E1\ completada.\r\n
+numComments=6
